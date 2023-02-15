@@ -1,0 +1,220 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    
+    
+}
+.car{
+    width: 80;
+    height: 10vh;
+    margin:auto;
+    display:flex;
+    align-items: center;
+    padding-right: 50px 0;
+    justify-content: space-between;
+    background-color: black;
+    background-size: cover;
+    color: aliceblue;
+    
+}
+.car .nav{
+    display: inline-block;
+    margin:0 10px;
+    position: relative;
+}
+.car  ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+    
+}
+
+img{
+    width: 100%;
+    
+   
+    
+}
+.one{
+    width:200px;
+    border:15px solid coral;
+    background-color: coral;
+    border-radius: 10px;
+}
+.container .three{
+    position: absolute;
+    top:100%;
+    left: 16px;
+    color: aliceblue;
+}
+h1{
+    position: absolute;
+    top:110%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 40px;
+}
+.icon{
+    position: absolute;
+    top:130%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 17px;
+    padding: 20px 30px;
+}
+.container_1 img{
+    width: 100%;
+
+   padding:0% 0% 0% 50%;
+   background: black;
+   height: 90vh;
+}
+h4{
+    position: absolute;
+    top:160%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 40px;
+    font-size: 18px;
+}
+h2{
+    position: absolute;
+    top:168%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 40px;
+}
+p{
+    position: absolute;
+    top:184%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+}
+.icons{
+    position: absolute;
+    top:200%;
+    left: 18px;
+    color: coral;
+    padding: 20px 50px;
+    font-size: 50px;
+}
+.icon_1{
+    position: absolute;
+    top:200%;
+    left: 20px;
+    color: coral;
+    padding: 20px 300px;
+    font-size: 50px;
+}
+
+p1{
+    position: absolute;
+    top:215%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+}
+p2{
+    position: absolute;
+    top:215%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 250px;
+}
+
+p3{
+    position: absolute;
+    top:250%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 900px;
+}
+p4{
+    position: absolute;
+    top:260%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 45px;
+    padding-left: 900px;
+
+}
+p5{
+    position: absolute;
+    top:280%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 900px;
+}
+.container_2 img{
+    height: 90vh;
+}
+p6{
+    position: absolute;
+    top:300%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 30px;
+    padding-left: 900px;
+}
+p7{
+    position: absolute;
+    top:300%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 30px;
+    padding-left: 1100px;
+}
+p8{
+    position: absolute;
+    top:308%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 900px;
+}
+p9{
+    position: absolute;
+    top:308%;
+    left: 16px;
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 1100px;
+}
+.container_1{
+    background: black;
+}
+.container{
+    background: black;
+}
+.fb{
+    position: absolute;
+    top:337%;
+    left: 16px;
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+    padding-left: 1350px;
+}
+.in{
+    position: absolute;
+    top:337%;
+    left: 16px;
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+    padding-left: 1400px;
+}
+p10{
+    position: absolute;
+    top:337%;
+    left: 16px;
+    color: rgb(253, 253, 253);
+    font-size: 18px;
+    padding-left: 900px;
+}
